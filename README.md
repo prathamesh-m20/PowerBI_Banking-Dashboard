@@ -29,13 +29,6 @@ An interactive Banking Dashboard developed using Microsoft Power BI to analyze b
 - Track important banking metrics.
 - Develop interactive dashboards for data analysis.
 
-## How to Use
-1. Download or clone this repository.
-2. Open the `.pbix` file using Power BI Desktop.
-3. If required, connect the Excel dataset.
-4. Refresh the data.
-5. Explore the dashboard using filters and slicers.
-
 ## Author
 **Prathmesh Mhase**
 
